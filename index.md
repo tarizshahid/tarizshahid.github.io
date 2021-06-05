@@ -6,9 +6,8 @@
 
 [Facebook](https://www.facebook.com/tar1z)
 
-```
+##Contact:
 
-Support or Contact
+-Email : tarizshahid@gmail.com
 
-email : tarizshahid@gmail.com
-Phone/WhatsApp : +923002209985
+-Phone/WhatsApp : +923002209985
