@@ -6,7 +6,7 @@
 
 [Facebook](https://www.facebook.com/tar1z)
 
-##Contact:
+Contact:
 
 -Email : tarizshahid@gmail.com
 
