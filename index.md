@@ -4,10 +4,14 @@
 
 [LinkedIn](https://www.linkedin.com/in/tar1z)
 
+[Instagram](https://www.instagram.com/tar1z_)
+
 [Facebook](https://www.facebook.com/tar1z)
+
+
 
 Contact:
 
 -Email : tarizshahid@gmail.com
 
--Phone/WhatsApp : +923002209985
+-[WhatsApp] : (https://wa.me/923002209985)
