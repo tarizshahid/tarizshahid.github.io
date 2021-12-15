@@ -8,12 +8,7 @@
 
 [Facebook](https://www.facebook.com/tar1z)
 
-
-Contact:
+[WhatsApp](https://wa.me/923002209985)
 
 -Email : tarizshahid@gmail.com
 -Email 2/3 : f180263@nu.edu.pk/f180263@cfd.nu.edu.pk
-
--[WhatsApp] : (https://wa.me/923002209985)
-
-
