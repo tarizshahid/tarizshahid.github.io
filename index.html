@@ -13,6 +13,29 @@
   <script type="text/javascript" src="js/jquery.particleground.js"></script>
   <script type="text/javascript" src="js/demo.js"></script>
 </head>
+<script>
+  // Function to update and display the view count
+  function updateViewCount() {
+    let viewCount = localStorage.getItem('viewCount');
+    if (viewCount === null) {
+      viewCount = 0;
+    } else {
+      viewCount = parseInt(viewCount);
+    }
+
+    // Increment the view count and update localStorage
+    viewCount++;
+    localStorage.setItem('viewCount', viewCount);
+
+    const countElement = document.getElementById('count');
+    countElement.textContent = viewCount;
+  }
+
+  // Fetch and update the view count when the page loads
+  window.addEventListener('load', updateViewCount);
+</script>
+
+
 
 <body>
 
