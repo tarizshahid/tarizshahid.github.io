@@ -129,3 +129,43 @@ p {
     height: 4px;
   }
 }
+
+@keyframes waveAnimation {
+    0%, 100% {
+        font-size: 14px; /* Start and end with small font size */
+    }
+
+    25%, 75% {
+        font-size: 24px; /* Middle of the animation with larger font size */
+    }
+
+    50% {
+        font-size: 32px; /* Peak size in the middle */
+    }
+}
+
+@keyframes textWave {
+    0%, 100% {
+        text-transform: lowercase;
+    }
+
+    25%, 75% {
+        text-transform: uppercase;
+    }
+
+    50% {
+        text-transform: lowercase;
+    }
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    animation: waveAnimation 2s infinite, textWave 2s infinite; /* Adjust the animation duration and other properties as needed */
+}
